@@ -1,1 +1,1 @@
-# telerymodule_animtext
+# Модуль animtext для юзербота Telery.
